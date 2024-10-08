@@ -4,8 +4,8 @@
 This project is aimed at developing a model for predicting human emotions based on facial gestures using a Convolutional Neural Network (CNN). We used a dataset from Kaggle's "Facial Expression Recognition" challenge to train and evaluate our model. The project was completed as part of our academic coursework at Kärnten University of Applied Sciences.
 
 ## Authors
-- Ana Maria Jaramillo - [GitHub Profile](https://github.com/Saghar1261)
-- Saghar Ghaffari - [GitHub Profile](https://github.com/Anmjaramillo412)
+- Ana Maria Jaramillo - [GitHub Profile](https://github.com/Anmjaramillo412)
+- Saghar Ghaffari - [GitHub Profile](https://github.com/Saghar1261)
 
 ## Project Objectives
 - Develop a model to predict human emotions from facial expressions.
